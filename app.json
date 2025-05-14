@@ -30,7 +30,7 @@
     },
     "OWNER_NAME": {
       "description": "add your owner name for the bot",
-         "value": "",
+         "value": "emeritus",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -43,7 +43,7 @@
     },
     "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "",
+      "value": "richard",
       "required": true
     },
     "PM_PERMIT": {
@@ -57,7 +57,7 @@
       "required": false
     },
     "SESSION": {
-      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
+      "description": "  KEITH;;;H4sIAAAAAAAAA61Vy47iRhT9l9pCT+M3RmoptjEGgwGDaRqiLMp22S78pFzGwAgpyj7JOqss8wv5nvmB5BMiQ7emk8nMdKR4VS6Xzz333nNPvQdZjks0RifQew8Kgg+QomZJTwUCPaBWQYAIaAMfUgh6YD07EkffWK3ArLdH0sd1aq9CKTh7Ox2NoaMGQSicqmGR6Q/g0gZF5SbY+wLgHtdouV2I3Vzo7JZwdma0OJytHJYa2igZqBWbpnumGNm29QAuDSLEBGehXkQoRQQmY3SaQ0zeRr/W+elpU7hyOep7iS3H5wzHnrpGftr1k/peQ1BVbQcbLP82+twms/rbjduRnMVaXlgIrgrPYu+R65rT/mzXcoN4u7L70zC80S9xmCF/5KOMYnp6c9214TzLzOF+MFoXgt1htf0oe5oHg+X9YyESSee5maVtpKg1tN9GPDiTWjSExzR3D33q8KfTmsCdujNGngULI+IYTM2Vk4/SzWvic/Kilfi/1N1Whjt8WNXWuqWPEmu3yTsTsZ4YfjBe20dcJ+mi6nRWvJrmb6M/Suszq+vHrrAfeItt/bgwk7PN40M53S0tebqurX3Geef+67pDWpEvsVxyOQ4cFm/KveLPThtukc/v58MJ60TUPps5HarmytTU2hquN/p+KpSjeZ9J8sGWnzHE44mSyprO+k/SxtH3VktWpUqzH64Zxeg08kGPubQBQSEuKYEU59l1jxPbAPqHJfIIotfygtkyznRxobeISfNULWt2tUwsVxSNkTrio6Hp2hMuGmePdPMA2qAguYfKEvlDXNKcnCxUljBEJeh9e+1UkzRBaU6RiX3QA6wgiBLPS5Lc6X5TvqsjSEtYFO8yREEbBCRPLQR6lFSoDa4/SANWkSWO63YEjZNEWdY6nCxoisr0VZ0dKE2K6S2og1NUUpgWoMdIvMR05S7XubT/Hx6iwnU0iRUElu+I2kDlhT7b1XWJ7+pyVxAGX+HBXb5rgwwd6U3HTfU5pg0CTEq6yqoiyaH/IvKXj9Dz8iqjy1Pmac0CEdB7tY0oxVlYNplVGSRehA9Ia/IAvQAmJbq0gY8O2EMNHjjXqTQrnZ0daVxpi/Yco/wpbDoY5dntCMsxsuuL0p0odtEdL/v+XZfxxTvIy5IfIFniAgY05bhZSPPPZxU9mUbMwZxv8uNCMaLxfO2bg8kxOcZZfVXlTYqIIP+lyi704qpw8hhlX8ClVjlcEUFlE7xnySgW90Ycu0I02b3GvUkc9N5/tG0t9xu8galx08fxFDTdauJ8ooYe+6keMtgcBgvsRZD4f/76208fvv/xwy8//PH7z397aRg8t6fB9hGFOCkbF53tVFqGuj4xlNjSDUMZhYoWKuBjO19s4jaGxyVpDcYugtJeqfocQ8eH4ekcZZ6l1QuHW5lbQ9Ri1y2U6xj+EwT0gDyRoiGVUnMP4Qnya0Oq1W545vWpJbXmevYk7MrW49oZOxA/TZL5zmT2y0WRMlzVcsqAy2lwr6aeVUmxtpafFNMz/H790ES7yep1sE09WxhdfXsfuHQCHaMqzvL8MdaC5TnUbV4JshIrg4k3HfeLaXhoZdOkw552sak+7SeTeyHprIZKvmTT2heVOt5maJIrys3ArgaaPF9c+NlabiIMMLreA8/9+VobP45D59J+BfF8sXxGcqq32t9Hy5RLKzGchLLsLsmxW/Jbrq+U+kpmtPWiCguDFW0DXJo5LxJIg5ykoAdg5pMc+6ANElhS5eNE/4tJsFwbpCelKJYU0hcjAErz9CUPXP4CL61CjzMJAAA=   ",
       "required": true
     },
     "AUTOVIEW_STATUS": {
@@ -140,7 +140,7 @@
     },
     "WA_PRESENCE": {
       "description": "This is your WhatsApp Presence Status: Here's how to set it up: Type *typing* if you want bot to show typing..., Type *recording* if you want bot to show recording..., Type *online* if you want bot to be always online, Leave this field blank if you want bot to show your actual presence.",
-      "value": "typing",
+      "value": "online",
       "required": false
     },
     "MODE": {
